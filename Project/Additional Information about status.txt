@@ -1,2 +1,0 @@
-We have currently processed the data, implemented decision trees and SVM successfully. We are looking for ways to better visualise 
-the confusion matrix and the learning curve. 
